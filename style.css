@@ -1,0 +1,26 @@
+body {
+    font-size: 20pt;
+    background: #DC965A;
+    color: white;
+    text-align: center
+}
+h1 {
+  font-size: 50pt;
+}
+p {font-size: 20pt;
+}
+a {
+  text-decoration: none;
+  color: white
+}
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+}
+.btn {
+  display: block;
+  color: black;
+  background: white;
+  margin: 50px;
+  box-shadow: 10px 10px;
+}
